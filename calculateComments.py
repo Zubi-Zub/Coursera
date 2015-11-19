@@ -1,4 +1,4 @@
-#Programs that surf the Web (Chapter 12)
+#Scraping HTML data with BeautifulSoup | Programs that surf the Web (Chapter 12)
 
 import urllib.request
 from bs4 import BeautifulSoup
